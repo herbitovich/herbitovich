@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓️ Getting my bachelor's degree in Applied Data Analysis & Artificial Intelligence at HSE University<br>💻 Currently working on a Computer Vision project<br>👥 Looking to collaborate on ML hackathons<br>📫 How to reach me: herbitovich@gmail.com
+🧑‍🎓️ Getting my bachelor's degree in Applied Data Analysis & Artificial Intelligence at HSE University<br>💻 Currently working on an AlgoTrading project<br>👥 Looking to collaborate on ML hackathons<br>📫 How to reach me: herbitovich@gmail.com
 
 
 # 💻 Tech Stack:
